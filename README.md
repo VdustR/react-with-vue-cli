@@ -2,7 +2,7 @@
 
 An boilerplate use `vue-cli` to build `react-app`.
 
-Demo: [https://vdustr.github.com/react-with-vue-cli](https://vdustr.github.com/react-with-vue-cli)
+Demo: [https://vdustr.github.io/react-with-vue-cli](https://vdustr.github.io/react-with-vue-cli)
 
 **This repository is for fun. Don't use this for production.**
 
