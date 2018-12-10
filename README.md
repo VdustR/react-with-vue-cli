@@ -1,4 +1,4 @@
-# react-vue-cli
+# React with @vue/cli
 
 An boilerplate use `vue-cli` to build `react-app`.
 
