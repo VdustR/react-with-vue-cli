@@ -1,5 +1,5 @@
 module.exports = {
   presets: [
-    '@vue/app'
-  ]
-}
+    'react-app',
+  ],
+};
