@@ -1,5 +1,7 @@
 # React with @vue/cli
 
+**DEPRECATED**: [Poi](https://poi.js.org/) is recommended for react apps.
+
 An boilerplate use `vue-cli` to build `react-app`.
 
 Demo: [https://vdustr.github.io/react-with-vue-cli](https://vdustr.github.io/react-with-vue-cli)
